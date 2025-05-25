@@ -1,2 +1,3 @@
 # first-demo
-This my first Git Respository
+This my first Git Respository.
+Author - Himal Saud
